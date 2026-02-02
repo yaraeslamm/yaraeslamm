@@ -37,6 +37,7 @@ I like working on projects that mix creativity with logic and I love how AI brin
  [yaraelshehawi@gmail.com](mailto:yaraelshehawi@gmail.com)  
  [LinkedIn](https://linkedin.com/in/yara-eslam-877421212)  
  [GitHub](https://github.com/yaraeslamm)   
+ [Hugging Face](https://huggingface.co/yaraa11)
  [Portfolio](https://yaraeslamm.github.io)
 
 ---
